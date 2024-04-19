@@ -1,7 +1,5 @@
 # appveyor.yml
-build: off
-
-clone_folder: c:\gopath\src\github.com\e1arth\VcenterKiller
+build: on
 
 environment:
   GOPATH: c:\gopath
